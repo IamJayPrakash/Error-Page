@@ -1,0 +1,34 @@
+/* Add CSS to separate file */
+.container {
+    
+    text-align: center;
+    font-family: 'Merriweather Sans', sans-serif;
+}
+
+h1 {
+    font-size: 6.25rem;
+    margin-top: 0.67em;
+    margin-bottom: 0.67em;
+    font-weight: bold;
+}
+
+h2 {
+    font-size: 2.5rem;
+    font-family: 'Merriweather Sans', sans-serif;
+}
+
+p {
+    font-size: 2rem;
+    font-family: 'Merriweather Sans', sans-serif;
+}
+
+.error-image {
+    width: 100%;
+    max-width: 500px; /* Set a maximum width to prevent the image from becoming too large */
+    height: auto; /* Maintain aspect ratio */
+    display: block;
+    margin: 0 auto; /* Center the image horizontally */
+}
+
+
+
